@@ -1,7 +1,7 @@
-## Question: 
-SImplify the mechanism of how a transformer model works
+### Question: 
+Simplify the mechanism of how a transformer model works
 
-Answer (ChatGPT): 
+### Answer (ChatGPT): 
 Tokenization:
 
 Break down the input data into tokens, which can be words, subwords, or any meaningful units.
